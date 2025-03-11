@@ -33,3 +33,14 @@ YOUR TABLE123
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
+
+# Section Heading
+
+Some body text of this section.
+
+<a name="my-custom-anchor-point"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
+
+[A link to that custom anchor](#my-custom-anchor-point)
