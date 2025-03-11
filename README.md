@@ -13,3 +13,15 @@ X<sup>2</sup>
 YOUR TABLE123
 
 </details>
+
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
