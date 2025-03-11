@@ -1,4 +1,4 @@
-#Hello world! It's F!
+# Hello world! It's F!
 
 H~2~O  
 H<sub>2</sub>O
@@ -69,7 +69,9 @@ A footnote can also have multiple lines[^2].
   This is a second line.
 
 asdfsdf
+
 ---
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
