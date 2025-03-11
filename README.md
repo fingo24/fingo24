@@ -60,6 +60,16 @@ This example</br>
 Will span two lines
 
 ---
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+
+
+---
+
+
 Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].
