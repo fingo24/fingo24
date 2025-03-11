@@ -7,6 +7,8 @@ H<sub>2</sub>O
 X^2^  
 X<sup>2</sup>
 
+This is an <ins>underlined</ins> text
+
 <details open>
 <summary>My top THINGS-TO-RANK</summary>
 
